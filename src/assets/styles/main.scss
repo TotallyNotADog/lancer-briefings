@@ -5,7 +5,7 @@
 /*-------------------------------------*/
 
 //Primary Colors
-$primary: rgba(125, 187, 187, 1);
+$primary: rgba(194, 32, 38, 1);
 $secondary: rgba(23, 29, 30, 0.8);
 $highlight-hover: rgba(255, 255, 255, 0.3);
 $highlight-active: rgba(255, 255, 255, 0.1);
@@ -513,13 +513,13 @@ section .section-header {
   }
 
   .pilot-portrait {
-    width: 104px;
+    width: 136px;
     height: 136px;
     object-fit: cover;
   }
 
   .mech-portrait {
-    width: 104px;
+    width: 136px;
     height: 136px;
     object-fit: cover;
   }
@@ -592,7 +592,7 @@ section .section-header {
 }
 
 .pilot-wrapper:hover .middle {
-  width: 757px;
+  width: 821px;
 }
 
 .pilot-wrapper:active .middle,
